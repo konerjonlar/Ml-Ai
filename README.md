@@ -1,1 +1,2 @@
-# Ml-Ai
+# Ml-Ai Türkçe Eğitim
+Bol yorum satırlı ve açıklamalı kodların bulunacağı bu repo giriş aşamasında zorluk yaşanlara özel hazırlanacaktır. Özellikle belirtmek isterim ki kodlarınızı yazarken buradaki kodlar gibi değil de İngilizce değişken isimleri ve yorum satırlarıyla yazmaya gayret ediniz. Başarılar...
